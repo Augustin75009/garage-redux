@@ -10,3 +10,4 @@ Simple React + Redux starter with the following config:
 - work with `.js` or `.jsx` files
 - main `application.scss` stylesheet is imported in `index.js` as a module to enjoy hot reloading
 # garage-redux
+# garage-redux
